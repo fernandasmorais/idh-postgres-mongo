@@ -1,0 +1,75 @@
+2024	;Holandes; Max Verstappen			;Red Bull Racing
+2023	;Holandes; Max Verstappen			;Red Bull Racing
+2022	;Holandes; Max Verstappen			;Red Bull Racing
+2021	;Holandes; Max Verstappen			;Red Bull Racing
+2020	;ingles; Lewis Hamilton				;Mercedes						
+2019	;ingles; Lewis Hamilton				;Mercedes	
+2018	;ingles; Lewis Hamilton				;Mercedes	
+2017	;ingles; Lewis Hamilton				;Mercedes	
+2016	;alemão; Nico Rosberg				;Mercedes	
+2015	;ingles; Lewis Hamilton				;Mercedes	
+2014	;ingles; Lewis Hamilton				;Mercedes	
+2013	;alemão; Sebastian Vettel			;Red Bull Racing	
+2012	;alemão; Sebastian Vettel			;Red Bull Racing	
+2011	;alemão; Sebastian Vettel			;Red Bull Racing	
+2010	;alemão; Sebastian Vettel			;Red Bull Racing	
+2009	;ingles; Jenson Button		;	Brawn GP
+2008	;ingles; Lewis Hamilton		;	McLaren	
+2007	;finlandes; Kimi Raikkonen	;	Ferrari	
+2006	;espanhol;Fernando Alonso		;	Renault	
+2005	;espanhol; Fernando Alonso	;	Renault	
+2004	;alemão; Michael Schumacher		;Ferrari	
+2003	;alemão; Michael Schumacher		;Ferrari	
+2002	;alemão; Michael Schumacher		;Ferrari	
+2001	;alemão; Michael Schumacher		;Ferrari	
+2000	;alemão; Michael Schumacher		;Ferrari	
+1999	;finlandes; Mika Hakkinen		;	McLaren	
+1998	;finlandes; Mika Hakkinen		;	McLaren	
+1997	;canadense; Jaques Villeneuve				;	Williams
+1996	;ingles; Damon Hill			;	Williams
+1995	;alemão; Michael Schumacher		;Benetton
+1994	;alemão; Michael Schumacher		;Benetton
+1993	;frances; Alain Prost			;	Williams
+1992	;ingles; Nigel Mansell		;	Williams
+1991	;brasileiro; Ayrton Senna		;	McLaren	
+1990	;brasileiro; Ayrton Senna		;	McLaren	
+1989	;frances; Alain Prost			;	McLaren	
+1988	;brasileiro; Ayrton Senna		;	McLaren	
+1987	;brasileiro; Nelson Piquet	;	Williams
+1986	;frances; Alain Prost			;	McLaren	
+1985	;frances; Alain Prost			;	McLaren	
+1984	;austríaco; Nick Lauda			;McLaren	
+1983	;brasileiro; Nelson Piquet	;	Brabham	
+1982	;finlandes; Keke Rosberg		;	Williams
+1981	;brasileiro; Nelson Piquet	;	Brabham	
+1980	;australiano; Alan Jones		;	Williams
+1979	;sul-africano; Jody Scheckter	;	Ferrari	
+1978	;americano; Mario Andretti	;	Lotus	
+1977	;austríaco; Nick Lauda			;Ferrari	
+1976	;ingles; James Hunt			;	McLaren	
+1975	;austríaco; Nick Lauda			;Ferrari	
+1974	;brasileiro; Emerson Fittipaldi;	McLaren	
+1973	;ingles; Jackie Steward		;	Tyrrell	
+1972	;brasileiro; Emerson Fittipaldi;	Lotus	
+1971	;ingles; Jack Steward			;	Tyrrell	
+1970	;austríaco; Jochen Rindt			;Lotus	
+1969	;ingles; Jackie Steward		;	Matra	
+1968	;ingles; Graham Hill			;	Lotus	
+1967	;neozelandês; Denny Hulme			;Brabham	
+1966	;australiano; Jack Brabham	;	Brabham	
+1965	;ingles; Jim Clark			;	Lotus	
+1964	;ingles; John Surtees			;	Ferrari	
+1963	;ingles; Jim Clark			;	Lotus	
+1962	;ingles; Graham Hill			;	BRM		
+1961	;americano; Phil Hill			;	Ferrari	
+1960	;australiano; Jack Brabham	;	Cooper	
+1959	;australiano; Jack Brabham	;	Cooper	
+1958	;ingles; Mike Hawthorn		;	Ferrari	
+1957	;argentino; Juan Manuel Fangio;	Maserati
+1956	;argentino; Juan Manuel Fangio;	Ferrari	
+1955	;argentino; Juan Manuel Fangio;	Mercedes
+1954	;argentino; Juan Manuel Fangio;	Maserati
+1953	;italiano; Alberto Ascari		;	Ferrari	
+1952	;italiano; Alberto Ascari		;	Ferrari	
+1951	;argentino; Juan Manuel Fangio;	Alfa Romeo		
+1950	;italiano; Nino Farina		;	Alfa Romeo	
